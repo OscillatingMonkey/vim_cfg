@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/zieny/git/nelective/app/assets/stylesheets'
+let g:netrw_dirhist_2='/home/zieny/gcc/dialogic_server'
+let g:netrw_dirhist_3='/home/zieny/git/mywings/app/views/home'
+let g:netrw_dirhist_4='/home/zieny/.config/openbox/pipemenus'
+let g:netrw_dirhist_5='/home/zieny/downloads'
+let g:netrw_dirhist_6='/home/zieny/downloads/1917--CetFae35r - Bil534t00nGlas (2014)'
+let g:netrw_dirhist_7='/home/zieny/downloads/The Hobbit The Desolation of Smaug (2013)'
+let g:netrw_dirhist_8='/home/zieny/Downloads/nerdtree_plugin'
